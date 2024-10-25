@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CrisGod7
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning machine learning
-- 😄 Pronouns: Cris
+- skibidi
   
 
 <!---
